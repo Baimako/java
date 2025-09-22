@@ -15,6 +15,6 @@ const age = "35";
 
 console.log(`My name is ${name} and I am ${age}`);
 
-const hello = `My name is ${name} and I am ${age}`;
+const hello = `My name is ${name} and I am ${age}`; /*gör till en variabel */
 
 console.log(hello);
