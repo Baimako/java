@@ -1,2 +1,2 @@
-# java
-första försöket på java
+# javascript
+första försöket på javascript
